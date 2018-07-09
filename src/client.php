@@ -18,7 +18,7 @@ class Client
   protected $status_msgs = [
     'UNEXPECTED' => 'Beklenmedik bir hata oluştu.',
     'READY' => 'İstemci isteklerinizi işlemek için hazır bekliyor.',
-    'BAD_RESPONSE' => 'Beklenmedik bir hata oluştu.',
+    'BAD_RESPONSE' => 'Beklenmedik bir hata oluştu. Hata ile alakalı bilgileri aldık. Lütfen bilgilerinizi gözden geçirirn ve kısa süre sonra tekrar deneyin.',
     'FAILED' => 'Ödeme işlemi başarısız oldu.'
   ];
 
