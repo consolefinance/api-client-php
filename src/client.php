@@ -1,5 +1,5 @@
 <?php
-namespace ConsoleFinance;
+namespace Console\Finance;
 
 class Client
 {
