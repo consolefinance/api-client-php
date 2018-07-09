@@ -1,7 +1,7 @@
 <?php
 namespace Console\Finance;
 
-class Client
+class AppClient
 {
   private $http;
 
