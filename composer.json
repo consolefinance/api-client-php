@@ -1,0 +1,25 @@
+{
+  "name": "consolefinance/api-client-php",
+  "type": "library",
+  "description": "API client that enables developers to access and manage the data of their Console Finance account.",
+  "keywords": ["api-client", "php"],
+  "homepage": "https://github.com/consolefinance/api-client-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Murat Gözel",
+      "email": "murat@gozel.com.tr",
+      "homepage": "https://gozel.com.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "ConsoleFinance\\": "src/"
+    }
+  }
+}
