@@ -2,7 +2,7 @@
   "name": "consolefinance/api-client-php",
   "type": "library",
   "description": "API client that enables developers to access and manage the data of their Console Finance account.",
-  "keywords": ["api-client", "php"],
+  "keywords": ["api-client", "php", "console-finance"],
   "homepage": "https://github.com/consolefinance/api-client-php",
   "license": "MIT",
   "authors": [
